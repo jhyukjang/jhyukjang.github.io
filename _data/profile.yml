@@ -7,7 +7,7 @@ positions:
 - name: <a href="https://cilabs.kaist.ac.kr/" target="_blank">Computational Intelligence Lab</a>
 - name: <a href="https://www.kaist.ac.kr/kr/" target="_blank">KAIST</a>
 
-email: "jhyuk@kaist.ac.kr"
+email: "jhyuk@kaist.ac.kr, 1120jhyuk@gmail.com"
 gscholar: R7tnUkgAAAAJ
 linkedin: 1120jhyuk
 
@@ -19,14 +19,10 @@ short_bio: >-
     I'm Jaehyuk Jang, a Ph.D. student at <a href="https://www.kaist.ac.kr/kr/" target="_blank">Korea Advanced Institute of Science and Technology (KAIST)</a>, advised by <a href="https://cilabs.kaist.ac.kr/" target="_blank">Prof. Changick Kim</a> in the Computational Intelligence Lab.
   </p>
   <p>
-    My research interest lies in <b>deep learning</b> and <b>computer vision</b>, including:
+
   </p>
   <ul>
-    <li>Visual Perception (classification, segmentation)</li>
-    <li>Anomaly / Change Detection</li>
-    <li>Multimodal Learning</li>
-    <li>Parameter-efficient Finetuning / Prompt Tuning</li>
-    <li>Large Multimodal Models</li>
+  
   </ul>
  
 

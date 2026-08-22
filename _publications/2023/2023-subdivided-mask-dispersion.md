@@ -3,7 +3,7 @@ title: "Subdivided Mask Dispersion Framework for Semi-Supervised Semantic Segmen
 date: 2023-10-01
 selected: false
 type: publication
-tags: ["#efficiency"]
+# tags: ["#efficiency"]
 pub: "Pattern Recognition Letters (<strong>PRL</strong>), 2023"
 authors:
   - Y. Wang
