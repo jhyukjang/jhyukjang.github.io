@@ -37,12 +37,11 @@ navbar_title: Home
       {% endif %}
     {% endif %}
 
-    {% if site.data.display.homepage.show_selected_publications %}
-      {% assign pubs = site.publications | sort: "date" | reverse | where: "selected", true %}
-      {% include widgets/publication_card.html 
-         publications=pubs 
-         title='<i class="fas fa-search"></i><span style="margin-left: 0.3em;">Research Highlights</span>' %}
-    {% endif %}
+    {% assign pubs = site.publications | sort: "date" | reverse %}
+    {% include widgets/publication_card.html 
+       publications=pubs 
+       title='<i class="fas fa-book-open"></i><span style="margin-left: 0.4em;">Publications</span>' %}
+
 
   </div>
 </div>
