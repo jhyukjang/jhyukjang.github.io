@@ -81,6 +81,24 @@ h1, h2, h3, h4, h5, h6,
     white-space: nowrap;
 }
 
+.news-list-scroll {
+    height: 8rem;
+    min-height: 8rem;
+    max-height: 70vh;
+    overflow-y: auto;
+    resize: vertical;
+}
+
+.news-date {
+    flex: 0 0 2.5rem;
+    width: 2.5rem;
+    margin-right: 0.75rem;
+}
+
+.news-title {
+    flex: 1 1 auto;
+}
+
 .cover-image {
     width: 180px;
     max-height: 120px;
