@@ -31,13 +31,13 @@ short_bio: >-
  
 
 education:
-- name: KAIST (Korea Advanced Institute of Science and Technology)
+- name: KAIST
   logo: /assets/images/badges/kaist.png
   position: Ph.D. in Electrical Engineering
   date: Mar. 2022 - Present
   place: Daejeon, Korea
   description: Advised by Prof. Changick Kim
-- name: KAIST (Korea Advanced Institute of Science and Technology)
+- name: KAIST 
   logo: /assets/images/badges/kaist.png
   position: M.S. in Electrical Engineering
   date: Mar. 2020 - Feb. 2022
