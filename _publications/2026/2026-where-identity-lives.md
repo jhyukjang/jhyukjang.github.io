@@ -8,7 +8,7 @@ pub: "Proceedings of the Empirical Methods in Natural Language Processing (<stro
 authors:
   - K. Ko*
   - Jaehyuk Jang*
-  - W. Lee
+  - W. Lee*
   - H.-S. Kim
   - Changick Kim
 links:
