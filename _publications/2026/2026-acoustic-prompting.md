@@ -1,6 +1,6 @@
 ---
 title: "Acoustic Prompting via Stage-wise Modulation for Few-Shot Learning in Audio Language Models"
-date: 2026-09-01
+date: 2026-06-01
 selected: false
 type: publication
 # tags: ["#multimodal", "#efficiency"]

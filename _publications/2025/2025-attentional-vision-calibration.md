@@ -4,7 +4,7 @@ date: 2025-08-01
 selected: true
 type: publication
 # tags: ["#multimodal", "#efficiency"]
-pub: "Proceedings of the Annual Meeting of the Association for Computational Linguistics (<strong>ACL Findings</strong>), 2025"
+pub: "Findings of the Annual Meeting of the Association for Computational Linguistics (<strong>ACL Findings</strong>), 2025"
 authors:
   - S. Woo*
   - D. Kim*

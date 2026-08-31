@@ -1,10 +1,10 @@
 ---
 title: "Jailbreak to Protect: Buffering and Reinforcing via Temporary Jailbreaking for Safe Fine-Tuning in Large Language Models"
-date: 2026-07-01
+date: 2026-05-01
 selected: true
 type: publication
 # tags: ["#safety"]
-pub: "International Conference on Machine Learning (<strong>ICML</strong>), 2026"
+pub: "Proceedings of the International Conference on Machine Learning (<strong>ICML</strong>), 2026"
 pub_post: '<span class="badge badge-pill badge-publication badge-danger">Spotlight</span>'
 authors:
   - S. Ham
