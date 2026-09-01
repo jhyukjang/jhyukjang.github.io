@@ -11,7 +11,7 @@ authors:
   - W. Lee
   - Changick Kim
 links:
-  "arXiv": "https://arxiv.org/abs/2606.15751"
+  "arXiv": "https://arxiv.org/abs/2606.18560"
   "Project page": "https://github.com/jhyukjang/SubT"
 ---
 

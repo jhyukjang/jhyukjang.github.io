@@ -12,6 +12,6 @@ authors:
   - H.-S. Kim
   - Changick Kim
 links:
-  # "arXiv": "https://arxiv.org/abs/2606.18560"
+  "arXiv": "https://arxiv.org/abs/2608.30649"
 ---
 
