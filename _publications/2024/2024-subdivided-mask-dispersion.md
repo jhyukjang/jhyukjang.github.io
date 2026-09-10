@@ -4,7 +4,7 @@ date: 2024-03-01
 selected: false
 type: publication
 # tags: ["#efficiency"]
-pub: "Pattern Recognition Letters (<strong>PRL</strong>), 2023"
+pub: "Pattern Recognition Letters (<strong>PRL</strong>), 2024"
 authors:
   - Y. Wang
   - Jaehyuk Jang
