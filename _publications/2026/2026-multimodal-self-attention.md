@@ -1,6 +1,6 @@
 ---
 title: "Multimodal Self-Attention Network with Temporal Alignment for Audio-Visual Emotion Recognition"
-date: 2026-05-01
+date: 2026-02-01
 selected: false
 type: publication
 # tags: ["#multimodal"]
